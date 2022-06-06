@@ -18,6 +18,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhatsNew.TopLevelStatement"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsNew.GlobalUsingDirectives", "WhatsNew.GlobalUsingDirectives\WhatsNew.GlobalUsingDirectives.csproj", "{FFAAEF42-F00A-4698-9ECC-BB064AE5C06C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsNew.FileScopedNamespaces", "WhatsNew.FileScopedNamespaces\WhatsNew.FileScopedNamespaces.csproj", "{6AD2CDB4-F877-4092-884C-06920822E1FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -40,6 +42,10 @@ Global
 		{FFAAEF42-F00A-4698-9ECC-BB064AE5C06C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFAAEF42-F00A-4698-9ECC-BB064AE5C06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFAAEF42-F00A-4698-9ECC-BB064AE5C06C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AD2CDB4-F877-4092-884C-06920822E1FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD2CDB4-F877-4092-884C-06920822E1FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD2CDB4-F877-4092-884C-06920822E1FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD2CDB4-F877-4092-884C-06920822E1FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
