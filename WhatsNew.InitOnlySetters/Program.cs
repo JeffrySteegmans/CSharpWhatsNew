@@ -5,6 +5,8 @@
 //     Value = "1CGK123", 
 // };
 
+using WhatsNew.InitOnlySetters.Enums;
+
 var licensePlate = new AccessDevice("be", AccessDeviceType.ANPR, "1CGK123");
 
 class AccessDevice
