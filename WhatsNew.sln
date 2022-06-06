@@ -24,6 +24,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsNew.ConstantInterpolat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsNew.ExtendedPropertyPatterns", "WhatsNew.ExtendedPropertyPatterns\WhatsNew.ExtendedPropertyPatterns.csproj", "{48CC5C66-FDD0-4A52-AF29-FE54E66038FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsNew.RecordStructs", "WhatsNew.RecordStructs\WhatsNew.RecordStructs.csproj", "{4AF45734-7A9A-4137-BEA3-36890C4DEA10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsNew.NullableReferenceTypes", "WhatsNew.NullableReferenceTypes\WhatsNew.NullableReferenceTypes.csproj", "{16680A25-EE92-43B1-95D0-97F24244FD5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,6 +62,14 @@ Global
 		{48CC5C66-FDD0-4A52-AF29-FE54E66038FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48CC5C66-FDD0-4A52-AF29-FE54E66038FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48CC5C66-FDD0-4A52-AF29-FE54E66038FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF45734-7A9A-4137-BEA3-36890C4DEA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF45734-7A9A-4137-BEA3-36890C4DEA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF45734-7A9A-4137-BEA3-36890C4DEA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF45734-7A9A-4137-BEA3-36890C4DEA10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16680A25-EE92-43B1-95D0-97F24244FD5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16680A25-EE92-43B1-95D0-97F24244FD5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16680A25-EE92-43B1-95D0-97F24244FD5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16680A25-EE92-43B1-95D0-97F24244FD5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
