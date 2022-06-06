@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsNew.GlobalUsingDirecti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsNew.FileScopedNamespaces", "WhatsNew.FileScopedNamespaces\WhatsNew.FileScopedNamespaces.csproj", "{6AD2CDB4-F877-4092-884C-06920822E1FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsNew.ConstantInterpolatedStrings", "WhatsNew.ConstantInterpolatedStrings\WhatsNew.ConstantInterpolatedStrings.csproj", "{2128EEC4-9FB1-4718-9740-ADD74E5DAA37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -46,6 +48,10 @@ Global
 		{6AD2CDB4-F877-4092-884C-06920822E1FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AD2CDB4-F877-4092-884C-06920822E1FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AD2CDB4-F877-4092-884C-06920822E1FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2128EEC4-9FB1-4718-9740-ADD74E5DAA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2128EEC4-9FB1-4718-9740-ADD74E5DAA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2128EEC4-9FB1-4718-9740-ADD74E5DAA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2128EEC4-9FB1-4718-9740-ADD74E5DAA37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
