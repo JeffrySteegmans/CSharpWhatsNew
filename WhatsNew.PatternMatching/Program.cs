@@ -15,6 +15,17 @@ if (randomShape is Circle)
 }
 
 //***************
+//* c# 1 to 6   *
+//***************
+
+if (randomShape.GetType() == typeof(Rectangle) && randomShape.Area == 100)
+{
+    var rectangleShape = randomShape as Rectangle;
+    Console.WriteLine(rectangleShape.Height);
+}
+
+
+//***************
 //* c# 7        *
 //***************
 
